@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Jacob Baker. I am a computer engineering major at the University of Delaware. I am interested in both cybersecurity and embedded systems, and I am excited to keep learning more. 
+
+- 🔭 I’m currently working on adding to a previous IoT project I did using an Arduino Uno.
+- 🌱 I’m currently learning about data structures and algorithms by practicing on LeetCode. I am also exploring
+      the fundamentals of security operations (SecOps) to potentially persue a job as an SOC Analyst.
+      
+
+
 <!--
 **jacob-baker25/jacob-baker25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
