@@ -3,7 +3,7 @@
 My name is Jacob Baker. I’m a Computer Engineering major at the University of Delaware with a minor in Computer Science. My interests sit at the intersection of **systems, data, and AI**, with a strong focus on applying modern tools to real technical problems.
 
 - 🔭 I’m currently working on undergraduate research through UD’s VIP program, where I’m building and evaluating an **LLM-based summarizer for HPC I/O performance logs (Darshan)**, with an emphasis on consistency, coverage, and evaluation methodology.
-- ⚙️ I’m actively developing projects in **systems and low-level software**, including operating systems concepts, networking, performance analysis, and containerized workflows.
+- ⚙️ I’m actively developing projects in **systems and low-level software**, currently working on an **MES shop-floor event tracker** for ingesting production data and computing operational metrics..
 - 🤖 I’m exploring **machine learning and applied AI**, particularly how LLMs can be used as analysis tools rather than black-box generators.
 - 🌱 I’m continuing to build experience in **embedded systems and hardware–software integration**, alongside a growing interest in **data-oriented and AI-focused engineering roles**.
 
